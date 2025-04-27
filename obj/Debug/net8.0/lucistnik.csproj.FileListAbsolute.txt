@@ -1,0 +1,15 @@
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.AssemblyInfoInputs.cache
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.AssemblyInfo.cs
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.csproj.CoreCompileInputs.cache
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.sourcelink.json
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\bin\Debug\net8.0\lucistnik.exe
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\bin\Debug\net8.0\lucistnik.deps.json
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\bin\Debug\net8.0\lucistnik.runtimeconfig.json
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\bin\Debug\net8.0\lucistnik.dll
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\bin\Debug\net8.0\lucistnik.pdb
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.dll
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\refint\lucistnik.dll
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.pdb
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\lucistnik.genruntimeconfig.cache
+C:\Users\mo073268\Downloads\CSharp1\csharp2\lucistnik\obj\Debug\net8.0\ref\lucistnik.dll
